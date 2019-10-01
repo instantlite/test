@@ -1,3 +1,4 @@
-module.exports = () => {
-  console.log('Looking for a new version 🔍 🔍 🔍 🔍 ')
+module.exports = ext => {
+  console.log('Ext API:')
+  console.table(ext)
 }

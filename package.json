@@ -2,10 +2,11 @@
   "name": "test-plugin",
   "displayName": "Test Plugin",
   "description": "A test plugin example",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "type": "extension",
   "author": "Dalton Menezes",
   "license": "MIT",
+  "relaunch": true,
   "process": {
     "renderer": "renderer.js"
   }
